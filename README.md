@@ -1,9 +1,9 @@
-# Hi 👋, I'm GoldCat
+# Hi 👋, I'm Valtid
 
 
-- 🌐 Full-stack Web Development with experienced the smart contract.
+- 🌐 Full-stack Web Development
 
-- 📱 Full-stack mobile app developer in the native(Android/iOS), cross-platform(ReactNative, Flutter) 
+- 📱 Full-stack mobile app developer in the native(Android/iOS), cross-platform(ReactNative) 
 
 - 👯 Interested Working on blockchain project
 
