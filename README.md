@@ -1,4 +1,4 @@
-# Hi 👋, I'm Valtid
+# Hi 👋,
 
 
 - 🌐 Full-stack Web Development
